@@ -87,3 +87,6 @@ All configuration is read from environment variables (see `.env.example`):
 - `main` is the protected stable branch.
 - Feature branches follow `feature/<feature-name>` and are merged via pull
   requests with review.
+- Implemented animal record management functions
+- Implemented appointment booking and schedule management functions
+
