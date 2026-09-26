@@ -87,3 +87,5 @@ All configuration is read from environment variables (see `.env.example`):
 - `main` is the protected stable branch.
 - Feature branches follow `feature/<feature-name>` and are merged via pull
   requests with review.
+- Implemented vet staff information and schedule management functions
+
